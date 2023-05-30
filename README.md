@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teddraker 
 - 👀 I’m interested in finance, trading and hfts....
-- 🌱 I’m currently learning python and dsa.
+- 🌱 I’m currently learning machine learning and dsa.
 - 💞️ I’m looking to collaborate on nothing right now....
 
 <!---
